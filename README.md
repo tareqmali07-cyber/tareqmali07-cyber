@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>Mechatronics Engineering Student</b> @ Lincoln University College, Malaysia | <b>STEM Instructor</b>
+  <b>Mechatronics Engineering Technology Student</b> @ Lincoln University College, Malaysia | <b>STEM Instructor</b>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <a name="about-me"></a>
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Mechatronics Engineering** at Lincoln University College, Malaysia.
+- 🎓 Studying **Mechatronics Engineering Technology ** at Lincoln University College, Malaysia.
 - 🏫 Working as a **STEM & Tech Instructor**, delivering educational material and guiding students.
 - ⚡ Focus Areas: Embedded Systems, Microcontrollers, and C Programming.
 
