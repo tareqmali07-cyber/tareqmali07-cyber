@@ -47,7 +47,14 @@
 </p>
 
 ---
+## 🛠️ Featured Projects
 
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Arduino Smart Ultrasonic Parking** | Real-time distance-based parking assistance system featuring visual/audio alert indicators. | Arduino, C++, Ultrasonic Sensors | [View Project](https://github.com/tareqmali07-cyber/Arduino-Smart-Ultrasonic-Parking) |
+| **Arduino Security Gate** | Automated security barrier system using microcontrollers, sensors, and actuator control. | Arduino, C++, Servo Motors | [View Project](https://github.com/tareqmali07-cyber/Arduino-Security-Gate) |
+| **Arduino Smart Weather Station** | Embedded monitoring station for reading temperature, humidity, and environmental parameters. | Arduino, C++, Sensors, LCD | [View Project](https://github.com/tareqmali07-cyber/Arduino-Smart-Weather-Station) |
+---
 <a name="focus"></a>
 ### 🎯 Current Focus
 
